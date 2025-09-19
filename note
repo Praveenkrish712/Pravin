@@ -6,3 +6,5 @@ table
 
 2) Forms
 label and inputs
+types: text, email, password, radio, checkbox, date, time, textarea, dropdown
+button: submit and reset
