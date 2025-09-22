@@ -8,3 +8,11 @@ table
 label and inputs
 types: text, email, password, radio, checkbox, date, time, textarea, dropdown
 button: submit and reset
+
+3) Semantic Tags
+header, footer, nav, section, article
+
+4) Media Elements
+Audio and Video
+
+5) Division Tag - div
