@@ -16,3 +16,26 @@ header, footer, nav, section, article
 Audio and Video
 
 5) Division Tag - div
+
+
+
+CSS - cascading style sheet
+
+1) types of CSS
+i - inline CSS
+ii - internal CSS
+iii - external CSS
+
+inline > internal > external
+
+2) css syntax
+selector {
+    property : value;
+}
+
+3) types of selector
+i - Element selector - (h1), (p)
+ii - class selector - (.) multiple - number of times
+iii - id selector - (#) unique - only one time for name
+iv - universal selector - (*) - to the entire site...
+v - group selector - class > tag, class > tag

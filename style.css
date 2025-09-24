@@ -1,0 +1,22 @@
+*{
+    background-color: goldenrod;
+}
+
+
+
+h1{
+    color: yellow;
+}
+
+
+.box > h1,
+.box > h2,
+.box > h5,
+.box > p{
+    color: green;
+}
+
+
+#one > h1{
+    color: darkgrey;
+}
