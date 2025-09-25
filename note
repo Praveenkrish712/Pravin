@@ -1,41 +1,82 @@
-1) tables
-table < tr < th
-tr < td
-tr < td
-table
+1. tables
+   table < tr < th
+   tr < td
+   tr < td
+   table
 
-2) Forms
-label and inputs
-types: text, email, password, radio, checkbox, date, time, textarea, dropdown
-button: submit and reset
+2. Forms
+   label and inputs
+   types: text, email, password, radio, checkbox, date, time, textarea, dropdown
+   button: submit and reset
 
-3) Semantic Tags
-header, footer, nav, section, article
+3. Semantic Tags
+   header, footer, nav, section, article
 
-4) Media Elements
-Audio and Video
+4. Media Elements
+   Audio and Video
 
-5) Division Tag - div
-
-
+5. Division Tag - div
 
 CSS - cascading style sheet
 
-1) types of CSS
-i - inline CSS
-ii - internal CSS
-iii - external CSS
+1. types of CSS
+   i - inline CSS
+   ii - internal CSS
+   iii - external CSS
 
 inline > internal > external
 
-2) css syntax
-selector {
-    property : value;
-}
+2. css syntax
+   selector {
+   property : value;
+   }
 
-3) types of selector
-i - Element selector - (h1), (p)
-ii - class selector - (.) multiple - number of times
-iii - id selector - (#) unique - only one time for name
-iv - universal selector - (*) - to the entire site...
-v - group selector - class > tag, class > tag
+3. types of selector
+   i - Element selector - (h1), (p)
+   ii - class selector - (.) multiple - number of times
+   iii - id selector - (#) unique - only one time for name
+   iv - universal selector - (\*) - to the entire site...
+   v - group selector - class > tag, class > tag
+
+4. colors and background
+   background-color: lightblue;
+   color: red;
+   background-image: url(./Assets/MotoGP-VR46-Ducati.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+5. text styling
+   font-family:monospace;
+   font-size: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: line-through;
+   font-weight: 900;
+   line-height: 1;
+   letter-spacing: 1px;
+
+6. box modeling
+   i - content
+   ii - padding
+   iii - border
+   iv - margin
+
+7. flex
+i - direction - row, row-reverse, column, column-reverse
+
+ii - Justify content (X) - start, center, end, space-around, space-evenly, space-between
+
+iii - align-items (Y) - start, center, end
+
+iv - flex-wrap - nowrap, wrap, wrap-reverse
+
+v - Align-content(flex wrap only enable then only its work) - start, center, end, space-around, space-evenly, space-between
+
+vi - gap - to assign values
+
+vii - flex (on items)
+
+Viii - order - change the visual order of flex items.
+
+8. 

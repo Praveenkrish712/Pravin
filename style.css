@@ -1,22 +1,103 @@
 *{
     background-color: goldenrod;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
 }
-
+/* 
 
 
 h1{
-    color: yellow;
+    color: black;
+    background-color: lightblue;
+    font-family:monospace;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: 1px;
 }
 
 
-.box > h1,
-.box > h2,
-.box > h5,
-.box > p{
+/* .box > h1, */
+/* .box > h2,
+.box > h5{
     color: green;
+} */
+
+/* 
+#one > h1{
+    /* color: darkgrey; */
+/* } */
+
+/* p{ */
+    /* background-image: url(./Assets/MotoGP-VR46-Ducati.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position: center; */
+/* } */
+
+.container{
+    /* width: 100px; */
+    /* height: 100px; */
+    /* background-color: red; */
+    /* padding-left: 30px;
+    padding-top: 50px; */
+    /* padding: 20px 30px 50px 70px; */
+    /* border: 10px solid black; */
+    /* margin-left: 100px;
+    margin-top: 50px; */
+    /* margin: 20px 40px 60px 80px; */
+    /* height: 500px; */
+    /* border: 2px solid black; */
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    /* flex-wrap: wrap; */
+    align-content: space-between;
+    /* gap: 10px; */
 }
 
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    /* flex: 1; */
+    order: 3;
+}
 
-#one > h1{
-    color: darkgrey;
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    /* flex: 1; */
+    order: 1;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    /* flex: 1; */
+    order: 2;
+}
+
+.box4{  
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* flex: 1; */
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    /* flex: 1; */
 }
