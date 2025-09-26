@@ -79,4 +79,13 @@ vii - flex (on items)
 
 Viii - order - change the visual order of flex items.
 
-8. 
+8. position
+i - Static - default -
+ii - relative - to set the direction value
+iii - absolute - depents upon the non-Static parents 
+iv - fiexed - to fix the web pages
+v - sticky - same to the fiexed
+
+9. Grid - 2 dimensional layout system
+
+
